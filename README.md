@@ -9,17 +9,20 @@
                  /_/                  /_/   /_/        
 ```
 
-## How to run this app?
+## How to run?
 
 1. Clone the repo and open with VS Code 
 2. Install NPM packages using the command 
-
-    **npm install**
+```
+    npm install
+```
 
 3. Set the Spoonacular API key in .env.local file.
-
-    **NEXT_PUBLIC_RAPIDAPI_KEY = <[YOUR SPOONACULAR X-RAPIDAPI KEY]>**
+```
+    NEXT_PUBLIC_RAPIDAPI_KEY = <YOUR SPOONACULAR X-RAPIDAPI KEY>
+```
 
 4. Run the app using
-
-    **npm run dev**
+```
+    npm run dev
+```
